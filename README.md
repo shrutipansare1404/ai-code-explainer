@@ -40,7 +40,7 @@ To reduce hallucinations:
 ![Home Page](home.png)
 
 ### Code Explanation
-![Code Explanation](explanation.png)
+![Code Explanation](explaination.png)
 
 ### Explanation History
 ![History](history.png)
