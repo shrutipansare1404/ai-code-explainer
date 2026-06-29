@@ -42,3 +42,16 @@ pip install -r requirements.txt
 
 streamlit run app.py
 ```
+## Future Improvements
+
+* Add AST-based parsing to extract function names and code structure before sending prompts to the LLM.
+* Support code optimization suggestions with a diff view between the original and optimized code.
+* Improve time and space complexity detection using static analysis techniques.
+* Add syntax highlighting and annotations for important code blocks.
+
+## Challenges Faced
+
+* Integrating the Gemini API securely using environment variables.
+* Designing prompts that generate concise and accurate explanations while minimizing hallucinations.
+* Managing multiple code submissions and maintaining explanation history within the Streamlit application.
+
