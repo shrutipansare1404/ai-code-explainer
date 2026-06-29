@@ -34,6 +34,20 @@ To reduce hallucinations:
 * The prompt instructs the model not to guess.
 * The model explicitly mentions uncertainty.
 * Explanations are restricted to the provided code only.
+ ## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Code Explanation
+
+![Code Explanation](screenshots/explanation.png)
+
+### Explanation History
+
+![History](screenshots/history.png)
+
 
 ## Run
 
